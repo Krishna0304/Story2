@@ -1,1 +1,1 @@
-# Story2
+This is a worst story.
